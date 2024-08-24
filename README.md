@@ -1,6 +1,6 @@
 # learning
 
-This repository serves as a log of things I'm learning or planning to learn to help me build the fundamental skills I need to one day become the person I want to be (me, but better).
+A repository documenting my learning journey and progress in programming. It includes a list of courses, exercises, and relevant resources I’m exploring to build fundamental skills and achieve my goals in programming (and life).
 
 ## Core Skills
 
