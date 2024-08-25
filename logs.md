@@ -2,6 +2,12 @@
 
 ## logs
 
+### Day 21: August 25, 2024 (Sunday)
+
+Hey hey I think I'm done for today. We were able to finish two projects today and I'm pretty proud of that. The first one was freeCodeCamp's simple date formatter which introduced me to the date object and how to use it. The only change I did was again with the UI and then I formatted the months to be their actual names instead of numbers. I planned to do more with the project, but I moved on to doing TOP's etch a sketch project. To be honest I still didn't know how to start this one. Practically all projects I couldn't start purely by myself. That just means I'm still pretty much a beginner at JavaScript. So yeah, ChatGPT did a lot of heavy lifting for me with this project. I mean I understand the code behind it, considering how little the code needed to function was, but to be honest it probably will take me some time to do this entirely by myself with no AI or with minimal searching. Still credit where credit's due, you did a great job with the UI, that we did'nt need help from and you also fixed some bugs which I know the past us wouldn't be able to do.
+
+Keep going me, I might have less time tomorrow to prepare for the next school loop, but do still try to study web development as much as you can. Continue your readings and do the freeCodeCamp projects if that bores you. Good luck tomorrow.
+
 ### Day 20: August 24, 2024 (Saturday)
 
 I finally finished TOP's JavaScript exercises today, but I gave in and started using AI to help me solve them. I did not solely rely on AI, it's only when I got stuck and couldn't find the answer elsewhere that I turned to it. This time though I promise that I won't be relying on it too much and always. I'm gonna make a conscious effort to only use it when necessary or after struggling for a while. After finishing the JavaScript exercises I went ahead and finished the rock paper scissors in the console project, and then read through the DOM Manipulation lesson. There's still the assignment left which is a lot of reading, but for now I'll continue in doing the Rock Paper Scissors project, this time with a UI. I'll come back to this after I hopefully finish it today.
