@@ -1,6 +1,10 @@
-# learning
+## adilogs
 
-## logs
+### Day 23: August 27, 2024 (Tuesday)
+
+Hey hey I almost broke the streak today, but I pushed through, at least for a little. I'm back on the school loop again, which messed my schedule up a bit, but considering I went home at around 2pm, because school ended quickly - it's kinda my fault for not doing more, and I definitely could've done way more. For starters we played just 1 game of league of legends, which fucked us over because of one bad game, after that I attempted to do some research for our group project, and attempted again to do my homeworks in advanced but I just couldn't, guess there's just some days like that, even if it's your fault entirely. The only fix I found was taking a bath, which I should've done sooner. This gave me the small push I needed to get back on track. In which I read through the final lesson of the Foundations Course, which was about objects. I skimmed through it, but of course since it's a heavy read I couldn't finish it. I'll attempt the assignments tomorrow, and also do the extra reading materials even if I'm bored of reading it.
+
+Lock in. I'll see you tomorrow.
 
 ### Day 22: August 26, 2024 (Monday)
 
