@@ -1,4 +1,8 @@
-## adilogs
+## { adilogs }
+
+### Day 25: August 29, 2024 (Thursday)
+
+Hey, feeling a little sick, but I started TOP's Intermediate HTML and CSS Course today. I think I'll end today of with the Tables lesson, I may or may not start the tables assessment today. Anyways, the lesson were basically a more general look to HTML, especially with the other tags and attributes. Note to self: start using the other content sectioning tags like `address, article, aside, nav, section and search`. I've mostly been using just div, plus header and footer. This time though let's incorporate those other tags. I also read through Emmet again which I have actually been using for a while now. The next lesson I read was about SVGs. All I know is that they're best for icons, or for images that you want to scale properly and that their format is more readable than their counterparts of jpeg and png. Finally, I stopped at the Tables lesson, I think I'm gonna continue with that tomorrow since it's an assessment of some sort and I feel really sick. Also I'm gonna publish a repository of my web-dev related bookmarks, because I don't know how to do bookmarks on Arc. See you tomorrow, keep it up. And I must tell you again, to learn some Android Development. It's literally your University homework to go learn Android, so we can cheat a little on the web dev stuff, even if we prefer it over mobile development. Our goal is to finish the Android research paper by Sunday, and know enough about Android by then. Alright. See ya.
 
 ### Day 24: August 28, 2024 (Wednesday)
 
