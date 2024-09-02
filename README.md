@@ -20,5 +20,6 @@ A repository documenting my learning journey and progress in programming. It inc
 
 ### Android Development
 
-| Resource | Status |
-| -------- | ------ |
+| Resource                                                                                           | Status      |
+| -------------------------------------------------------------------------------------------------- | ----------- |
+| [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) | In Progress |
