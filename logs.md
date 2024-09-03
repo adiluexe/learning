@@ -1,5 +1,9 @@
 ## { adilogs }
 
+### Day 30: September 3, 2024 (Tuesday)
+
+Today was not a good day. I think the only studying I did was watch a couple YouTube videos related to programming, but I literally do that everyday. I'll try to redeem myself after reading a bit more in my phone, but yeah today was a terrible day for me. I planned to continue learning Android Development today, and also finish my Android research paper assignment, but I couldn't. Something just clicked today, and I couldn't function as well as I did yesterday. I basically watched anime all morning, played some games, and then had a meeting with my group related to our project, which probably is the only good thing I did today, still if I was functioning normally, I could've achieved better. Gonna sleep early today. We fucked up a lot, but we'll be back soon. I'm sorry for disappointing you.
+
 ### Day 29: September 2, 2024 (Monday)
 
 Sup - I finally started learning about Android Development. Who knew that the official Android Developer website made by Google would have the best resource for learning Android Development? That should be a no-brainer, but it took me weeks to get to that point. The next time we try to learn something just go to the official documentation of what you want to learn, and then start from there - instead of going to YouTube and waste time filtering actual good videos, just use the official documentation. I love the Google Developer Program.
