@@ -1,5 +1,11 @@
 ## { adilogs }
 
+### Day 31: September 4, 2024 (Wednesday)
+
+Yo, it's actually been a month now since I started documenting my learning. We've progressed quite a lot during our first month, even if we did fuck up several times, I'm still proud of you. There may be times when we fuck up, like yesterday, but the important thing is we keep going, we stand, and just show up. Keep showing up, eventually everything will be yours.
+
+Today I explored Flutter, it's actually pretty good and runs way faster than Kotlin with Android Studio. I'm still in the beginning part of both these technologies, so there's definitely more to it but I'm having fun just exploring stuff. Maybe tomorrow I'll even check out React Native, which I'm a hesitant to use because I hate React already. So about Flutter, I'm currently in the middle of their write your first app tutorial, which I'll hopefully finish today. I set it up earlier and explored some Flutter apps, but right now I need to attempt to build my own by following along their documentation. I'm more of a documentation type of guy now, trying to use less YouTube tutorials and just go straight to the source. Anyways I don't want to waste time, I'll see you tomorrow, and I'll tell you how it goes. Hopefully we still don't have face to face classes tomorrow, because I enjoy just learning on my own and no other reason at all :3 _queue that one Parasite (2019) scene_.
+
 ### Day 30: September 3, 2024 (Tuesday)
 
 Today was not a good day. I think the only studying I did was watch a couple YouTube videos related to programming, but I literally do that everyday. I'll try to redeem myself after reading a bit more in my phone, but yeah today was a terrible day for me. I planned to continue learning Android Development today, and also finish my Android research paper assignment, but I couldn't. Something just clicked today, and I couldn't function as well as I did yesterday. I basically watched anime all morning, played some games, and then had a meeting with my group related to our project, which probably is the only good thing I did today, still if I was functioning normally, I could've achieved better. Gonna sleep early today. We fucked up a lot, but we'll be back soon. I'm sorry for disappointing you.
