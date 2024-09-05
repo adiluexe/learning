@@ -1,8 +1,8 @@
-# learning
+# { progress }
 
-A repository documenting my learning journey and progress in programming. It includes a list of courses, exercises, and relevant resources I’m exploring to build fundamental skills and achieve my goals in programming (and life).
+This repository documents my ongoing journey to learn programming and other related skills. It keeps track of courses, exercises, and resources I'm exploring to build foundational knowledge and achieve my goals _:3_.
 
-## Core Skills
+## Core
 
 ### Web Development
 
@@ -18,8 +18,15 @@ A repository documenting my learning journey and progress in programming. It inc
 | Resource | Status |
 | -------- | ------ |
 
-### Android Development
+### Mobile Application Development
 
 | Resource                                                                                           | Status      |
 | -------------------------------------------------------------------------------------------------- | ----------- |
 | [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) | In Progress |
+| [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) | Completed |
+
+### Graphic Design
+
+| Resource | Status |
+| -------- | ------ |
+| [Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | In Progress |
