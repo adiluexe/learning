@@ -17,24 +17,24 @@ This repository documents my ongoing journey to learn programming and other rela
 
 | Resource                                                                                           | Status      |
 | -------------------------------------------------------------------------------------------------- | ----------- |
-| [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) | In Progress |
-| [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) | Completed |
+| [Android Developers - Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) | In Progress |
+| [Flutter - Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) | Completed |
 
 ### UI/UX Design
 
 | Resource | Status |
 | -------- | ------ |
-| [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ) | Completed |
-| [Figma UI UX Design Essentials](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners) | Premium |
-| [Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | In Progress |
-| [Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs) | In Progress |
+| [BYOL - Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ) | Completed |
+| [BYOL - Figma UI UX Design Essentials](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners) | Premium |
+| [BYOL - Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | In Progress |
+| [Flux Academy - Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs) | In Progress |
 
 ### Graphic Design
 
 | Resource | Status |
 | -------- | ------ |
-| [Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | Completed |
-| [Adobe Illustrator CC - Essentials Training](https://bringyourownlaptop.com/courses/adobe-illustrator-essentials-for-beginners) | Premium |
-| [Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | In Progress |
-| [Adobe Illustrator CC - Advanced Course](https://bringyourownlaptop.com/courses/adobe-illustrator-cc-advanced-training-course-tutorial) | Premium |
+| [BYOL - Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | Completed |
+| [BYOL - Adobe Illustrator CC - Essentials Training](https://bringyourownlaptop.com/courses/adobe-illustrator-essentials-for-beginners) | Premium |
+| [BYOL - Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | In Progress |
+| [BYOL - Adobe Illustrator CC - Advanced Course](https://bringyourownlaptop.com/courses/adobe-illustrator-cc-advanced-training-course-tutorial) | Premium |
 
