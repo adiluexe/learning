@@ -13,17 +13,21 @@ This repository documents my ongoing journey to learn programming and other rela
 | [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)        | In Progress            |
 | [The Odin Project - Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) | In Progress            |
 
-### UI/UX Design
-
-| Resource | Status |
-| -------- | ------ |
-
 ### Mobile Application Development
 
 | Resource                                                                                           | Status      |
 | -------------------------------------------------------------------------------------------------- | ----------- |
 | [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) | In Progress |
 | [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) | Completed |
+
+### UI/UX Design
+
+| Resource | Status |
+| -------- | ------ |
+| [Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ) | Completed |
+| [Figma UI UX Design Essentials](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners) | Premium |
+| [Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | In Progress |
+| [Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs) | In Progress |
 
 ### Graphic Design
 
@@ -33,3 +37,4 @@ This repository documents my ongoing journey to learn programming and other rela
 | [Adobe Illustrator CC - Essentials Training](https://bringyourownlaptop.com/courses/adobe-illustrator-essentials-for-beginners) | Premium |
 | [Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | In Progress |
 | [Adobe Illustrator CC - Advanced Course](https://bringyourownlaptop.com/courses/adobe-illustrator-cc-advanced-training-course-tutorial) | Premium |
+
