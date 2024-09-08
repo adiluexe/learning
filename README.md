@@ -35,6 +35,6 @@ This repository documents my ongoing journey to learn programming and other rela
 | -------- | ------ |
 | [BYOL - Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | Completed |
 | [BYOL - Adobe Illustrator CC - Essentials Training](https://bringyourownlaptop.com/courses/adobe-illustrator-essentials-for-beginners) | Premium |
-| [BYOL - Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | In Progress |
+| [BYOL - Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | Completed |
 | [BYOL - Adobe Illustrator CC - Advanced Course](https://bringyourownlaptop.com/courses/adobe-illustrator-cc-advanced-training-course-tutorial) | Premium |
 
