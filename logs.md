@@ -1,5 +1,10 @@
 ## { adilogs }
 
+### Day 38: September 11, 2024 (Wednesday)
+
+Sup, it's 9/11, kinda fucked up today, our first fuck up in a while all because we were just too tired. I had to got to school and back home twice today. The first time was when we had a meeting with the gym again, which went well. The second time when I had to force myself to go to school at 5pm because our asshole professor decided to not cancel it even if there was an ongoing event. The ending was our class stayed at the library until 6:30 pm, and he was a no show. This is slowly becoming like my journal or just a quick recap of my day. Anyway, read easy peasy. Don't sabotage yourself please, you were doing great, and you're gonna be doing better moving forward. You know what the fuck you're doing. Wake up. I'll se you tomorrow, make it count. 
+
+
 ### Day 37: September 10, 2024 (Tuesday)
 
 Yo - I just finished with my homework in both Discrete Structures and Calculus, so you bet my head is still spinning right around now. Math has never been my forte but it has been a necessary evil in my life. Still I feel more productive studying other shit than math, but enough coping with that - you have face to face exams tomorrow in Discrete Structures. Among the two I'm probably better at Discrete Structures, but don't fucking risk it man like you did earlier by not studying for the Graded Recitation xd, though we did make quite a show of it, which was fun. Anyways, I haven't really done anything with my side hustles yet. Hopefully my time frees up soon so I can go ahead and focus on those thing, like make money. But for now, please fucking study for your Discrete Structures quiz. That's your number one priority, not your group activity, not your side hustle. For tomorrow focus on studying to ace that exam. You deserve some rest today after having gone through the suffering of doing math related homework. Alright, I'll see you tomorrow, good night me and good luck. I know you can do it. For some reason I think I can fucking handle everything, and everything will work out for us. Do you, do better, do your best. Keep going.
