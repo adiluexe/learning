@@ -1,5 +1,9 @@
 ## { adilogs }
 
+### Day 39: September 12, 2024 (Thursday)
+
+Making logos is hard. Also you get to get your shit together. You know what I mean. I'm gonna spare you this yap session. Think about it.
+
 ### Day 38: September 11, 2024 (Wednesday)
 
 Sup, it's 9/11, kinda fucked up today, our first fuck up in a while all because we were just too tired. I had to got to school and back home twice today. The first time was when we had a meeting with the gym again, which went well. The second time when I had to force myself to go to school at 5pm because our asshole professor decided to not cancel it even if there was an ongoing event. The ending was our class stayed at the library until 6:30 pm, and he was a no show. This is slowly becoming like my journal or just a quick recap of my day. Anyway, read easy peasy. Don't sabotage yourself please, you were doing great, and you're gonna be doing better moving forward. You know what the fuck you're doing. Wake up. I'll se you tomorrow, make it count. 
