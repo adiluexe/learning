@@ -4,6 +4,12 @@ This repository documents my ongoing journey to learn programming and other rela
 
 ## Core
 
+###
+
+| Resource | Status |
+| -------- | ------ |
+| [AI Prompting & Technical Writing](https://education.github.com/experiences/ai_prompt_tech_writing) | In Progress |
+
 ### Web Development
 
 | Resource                                                                                                                                            | Status                 |
