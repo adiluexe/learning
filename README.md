@@ -31,8 +31,7 @@ This repository documents my ongoing journey to learn programming and other rela
 | Resource | Status |
 | -------- | ------ |
 | [BYOL - Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ) | Completed |
-| [BYOL - Figma UI UX Design Essentials](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners) | Premium |
-| [BYOL - Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | In Progress |
+| [BYOL - Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | Completed |
 | [Flux Academy - Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs) | Completed |
 
 ### Graphic Design
@@ -40,7 +39,5 @@ This repository documents my ongoing journey to learn programming and other rela
 | Resource | Status |
 | -------- | ------ |
 | [BYOL - Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | Completed |
-| [BYOL - Adobe Illustrator CC - Essentials Training](https://bringyourownlaptop.com/courses/adobe-illustrator-essentials-for-beginners) | Premium |
 | [BYOL - Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | Completed |
-| [BYOL - Adobe Illustrator CC - Advanced Course](https://bringyourownlaptop.com/courses/adobe-illustrator-cc-advanced-training-course-tutorial) | Premium |
 
