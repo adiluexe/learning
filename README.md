@@ -33,6 +33,7 @@ This repository documents my ongoing journey to learn programming and other rela
 | [BYOL - Figma Tutorial: A Crash Course for Beginners](https://www.youtube.com/watch?v=IOVFRMuPeVQ) | Completed |
 | [BYOL - Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw) | Completed |
 | [Flux Academy - Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs) | Completed |
+| [Zero to Mastery - Design 101 Crash Course: Learn UX/UI Design, Figma](https://www.youtube.com/watch?v=cKZEgtQUxlU) | In Progress |
 
 ### Graphic Design
 
