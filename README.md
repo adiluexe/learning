@@ -14,7 +14,7 @@ This repository documents my ongoing journey to learn programming and other rela
 
 | Resource                                                                                                                                            | Status                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [The Odin Project - Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)                                       | Completed (2024-08-24) |
+| [The Odin Project - Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)                                       | Completed |
 | [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)                                              | In Progress            |
 | [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)        | In Progress            |
 | [The Odin Project - Intermediate HTML and CSS Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) | In Progress            |
@@ -41,4 +41,4 @@ This repository documents my ongoing journey to learn programming and other rela
 | -------- | ------ |
 | [BYOL - Adobe Illustrator Tutorial for Beginners](https://www.youtube.com/watch?v=r9gaPGQ1EG0) | Completed |
 | [BYOL - Adobe Illustrator Advanced Tutorial](https://www.youtube.com/watch?v=dPNVcAobL4M) | Completed |
-
+| [TESDA - Introduction to Visual Graphic Design](https://e-tesda.gov.ph/course/view.php?id=3365) | In Progress |
